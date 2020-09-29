@@ -35,12 +35,12 @@ for (let i = 0; i < fruits.length; i++) {
 // console.log(fruits.indexOf('papaya'));
 
 // splice => 지정해준 배열의 자리부터 지정해준 숫자만큼 데이터 삭제 후 출력 / splice(시작, 삭제, 추가)
-// console.log(fruits.splice(2, 2));
+// console.log(fruits.splice(2, 3));
 // console.log(fruits);
 
-// slice => slice(시작, 해당위치 전 배열데이터 값 까지 추출)
-console.log(fruits.slice(0, 2));
-console.log(fruits);
+// slice => slice(시작, 해당위치 전 배열데이터 값 까지 추출) 카피개념
+// console.log(fruits.slice(0, 2));
+// console.log(fruits);
 
 
 
